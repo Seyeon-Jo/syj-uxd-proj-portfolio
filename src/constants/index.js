@@ -130,11 +130,11 @@ export const skills = [
     name: "Tailwind CSS",
     type: "Frontend",
   },
-  {
-    imageUrl: typescript,
-    name: "TypeScript",
-    type: "Frontend",
-  },
+  // {
+  //   imageUrl: typescript,
+  //   name: "TypeScript",
+  //   type: "Frontend",
+  // },
 ];
 
 export const experiences = [
@@ -212,15 +212,15 @@ export const socialLinks = [
 ];
 
 export const projects = [
-  {
-    //iconUrl: food,
-    preview: sfn,
-    theme: "btn-back-green",
-    name: "SFN Foodbank App",
-    description:
-      "Hackathon Project - Created a responsive web app to help people in Scarborough and the GTA who need food find local food banks easily.",
-    link: "https://seyeonjo.notion.site/Scarborough-Food-Network-App-3804e505c0484271a2e15704d82a7d0c?pvs=4",
-  },
+  // {
+  //   //iconUrl: food,
+  //   preview: sfn,
+  //   theme: "btn-back-green",
+  //   name: "SFN Foodbank App",
+  //   description:
+  //     "Hackathon Project - Created a responsive web app to help people in Scarborough and the GTA who need food find local food banks easily.",
+  //   link: "https://seyeonjo.notion.site/Scarborough-Food-Network-App-3804e505c0484271a2e15704d82a7d0c?pvs=4",
+  // },
   {
     //iconUrl: ffs,
     preview: ffsp,
@@ -248,15 +248,15 @@ export const projects = [
       "UX Design Internship Project - Worked on the MDIS Portal project focusing on usability testing, user personas and sitemap for better UX.",
     link: "https://seyeonjo.notion.site/MDIS-Portal-2df6be3040214d219d3315b996098d49?pvs=4",
   },
-  {
-    //iconUrl: scheduler,
-    preview: sfn,
-    theme: "btn-back-pink",
-    name: "Scheduler Web App",
-    description:
-      "Team Project - Created a responsive scheduler web app to improve time management and team collaboration, boosting productivity.",
-    link: "https://seyeonjo.notion.site/Scheduler-Web-App-36c37d7b064c4c75832f253143b553ca?pvs=4",
-  },
+  // {
+  //   //iconUrl: scheduler,
+  //   preview: sfn,
+  //   theme: "btn-back-pink",
+  //   name: "Scheduler Web App",
+  //   description:
+  //     "Team Project - Created a responsive scheduler web app to improve time management and team collaboration, boosting productivity.",
+  //   link: "https://seyeonjo.notion.site/Scheduler-Web-App-36c37d7b064c4c75832f253143b553ca?pvs=4",
+  // },
 
   // {
   //   iconUrl: concierge,
@@ -301,11 +301,11 @@ export const studies = [
     description: "Explore my digital drawing learning journey.",
     link: "https://seyeonjo.notion.site/Digital-Drawing-62d0e43871924d09ae93098c3bac9796?pvs=4",
   },
-  {
-    iconUrl: modeling,
-    theme: "btn-back-blue",
-    name: "3D Modeling",
-    description: "Explore my 3d Modeling learning journey.",
-    link: "https://seyeonjo.notion.site/3D-Modeling-8365e598f8c64338965f391ce011f938?pvs=4",
-  },
+  // {
+  //   iconUrl: modeling,
+  //   theme: "btn-back-blue",
+  //   name: "3D Modeling",
+  //   description: "Explore my 3d Modeling learning journey.",
+  //   link: "https://seyeonjo.notion.site/3D-Modeling-8365e598f8c64338965f391ce011f938?pvs=4",
+  // },
 ];
