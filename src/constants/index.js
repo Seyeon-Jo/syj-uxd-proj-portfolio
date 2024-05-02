@@ -145,10 +145,10 @@ export const experiences = [
     iconBg: "#accbe1",
     date: "January 2024 - April 2024",
     points: [
-      "Participated in usability testing and created user personas for the MDIS (MTO Data and Information Strategy).",
-      "Improved the FFS (Fee for Service) procurement process by creating flowcharts and documentation to aid managers in hiring procedures.",
-      "Assisted in the GTSSD & IPEO CRM project by engaging in discovery session, including user personas and journey map.",
-      "Enhanced the prototype of the RSS (Roadside Scheduling System) and CMS (Certification Management System) focusing on user experience and usability.",
+      "Participated in usability testing and created user personas and sitemap for the MDIS (MTO Data and Information Services) Portal.",
+      "Improved the FFS (Fee for Service) procurement process by creating interactive documentation to aid managers in hiring procedures.",
+      "Worked on user research and user interview for the RSS (Roadside Scheduling System) focusing on user experience and usability.",
+      "Communicated with the business and development team to improve the user interface for the Certification Management System (CMS)",
       "Developed “PingBot”, an AI chatbot for the OPS Hackathon, involving user research, user persona, and prototype design to centralize learning resources for employees.",
     ],
   },
@@ -212,15 +212,15 @@ export const socialLinks = [
 ];
 
 export const projects = [
-  // {
-  //   //iconUrl: food,
-  //   preview: sfn,
-  //   theme: "btn-back-green",
-  //   name: "SFN Foodbank App",
-  //   description:
-  //     "Hackathon Project - Created a responsive web app to help people in Scarborough and the GTA who need food find local food banks easily.",
-  //   link: "https://seyeonjo.notion.site/Scarborough-Food-Network-App-3804e505c0484271a2e15704d82a7d0c?pvs=4",
-  // },
+  {
+    //iconUrl: food,
+    preview: sfn,
+    theme: "btn-back-green",
+    name: "SFN Foodbank App",
+    description:
+      "Hackathon Project - Created a mobile app to help people in Scarborough and the GTA who need food find local food banks easily.",
+    link: "https://seyeonjo.notion.site/Scarborough-Food-Network-Hackathon-3rd-Place-059e8c3f1e21464582cb5abcf069bea3?pvs=4",
+  },
   {
     //iconUrl: ffs,
     preview: ffsp,

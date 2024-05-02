@@ -39,22 +39,28 @@ const About = () => {
         {/* Fun fact */}
         <div className="text-left sm:flex-1 sm:ml-5 mt-4 sm:mt-0">
           <p className="text-black-500 text-lg font-semibold">
-            Fun Fact of Me 🐰
+            A Peek into My World 🐰
           </p>
           <p className="mt-4 text-slate-500">
-            <span className="font-semibold text-black-500">Fact #1.</span>{" "}
-            <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Vivamus vulputate est sit amet dapibus pulvinar.
+            <span className="font-semibold text-black-500">
+              1. Passionate about Learning and Reflecting
+            </span>{" "}
+            <br /> I enjoy tracking my studies, thoughts, and interests. I
+            regularly document these in Notion and GitHub blog.
           </p>
           <p className="mt-4 text-slate-500">
-            <span className="font-semibold text-black-500">Fact #2.</span>{" "}
-            <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Vivamus vulputate est sit amet dapibus pulvinar.
+            <span className="font-semibold text-black-500">
+              2. Digital Drawing Enthusiast
+            </span>{" "}
+            <br /> I've recently started exploring digital art. During my free
+            time, I love creating drawings on my iPad.
           </p>
           <p className="mt-4 text-slate-500">
-            <span className="font-semibold text-black-500">Fact #3.</span>{" "}
-            <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Vivamus vulputate est sit amet dapibus pulvinar.
+            <span className="font-semibold text-black-500">
+              3. Blending Design with Coding
+            </span>{" "}
+            <br /> While my main focus is on UX design, I also love bringing my
+            designs to life through coding.
           </p>
         </div>
       </div>
