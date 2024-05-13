@@ -20,7 +20,7 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          UX Designer based in Toronto, specializing in Software Engineering and
+          UX Designer and Front-End Developer based in Toronto, specializing in Software Engineering and
           Digital Experience Design.
         </p>
       </div>
@@ -50,17 +50,16 @@ const About = () => {
           </p>
           <p className="mt-4 text-slate-500">
             <span className="font-semibold text-black-500">
-              2. Digital Drawing Enthusiast
+              2. Blending Design with Coding
             </span>{" "}
-            <br /> I've recently started exploring digital art. During my free
-            time, I love creating drawings on my iPad.
+            <br /> I am passionate about both design and coding, which allows me to not only create compelling designs but also bring them to life through programming.
           </p>
           <p className="mt-4 text-slate-500">
             <span className="font-semibold text-black-500">
-              3. Blending Design with Coding
+              3. Digital Drawing Enthusiast
             </span>{" "}
-            <br /> While my main focus is on UX design, I also love bringing my
-            designs to life through coding.
+            <br /> I've recently started exploring digital art. During my free
+            time, I love creating drawings on my iPad.
           </p>
         </div>
       </div>

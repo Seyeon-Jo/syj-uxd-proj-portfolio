@@ -19,7 +19,7 @@ const Home = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          UX Designer based in Toronto, specializing in Software Engineering and
+          UX Designer & Front-End Developer based in Toronto, specializing in Software Engineering and
           Digital Experience Design.
         </p>
       </div>
@@ -29,20 +29,20 @@ const Home = () => {
         {/* Photo */}
         <div className="sm:flex-1 flex justify-center items-start">
           <img
-            src="/profile.jpeg" // Replace with the correct path to your photo
+            src="/profile.jpeg"
             alt="Seyeon"
-            className="rounded-full max-w-[300px] mx-auto" // mx-auto to center the image on mobile
+            className="rounded-full max-w-[300px] mx-auto"
           />
         </div>
 
         {/* Introduction and Resume */}
         <div className="text-left sm:flex-1 sm:ml-5 mt-4 sm:mt-0">
           <p className="text-slate-500">
-            UX Designer from Toronto with a background in Software Engineering
+            UX Designer and Front-End Developer from Toronto with a background in Software Engineering
             and a passion for creating intuitive digital experiences.
           </p>
           <p className="mt-2 text-slate-500">
-            My journey has been driven by a love for design that solves real
+            My journey has been driven by a love for design and coding that solves real
             problems, enhances usability, and delights users. I thrive on
             collaboration, bringing innovative solutions to complex challenges.
             Let's connect and create something impactful together.
