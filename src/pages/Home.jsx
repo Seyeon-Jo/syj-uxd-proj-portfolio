@@ -47,13 +47,13 @@ const Home = () => {
             collaboration, bringing innovative solutions to complex challenges.
             Let's connect and create something impactful together.
           </p>
-          <a
+          {/* <a
             href="/resume.pdf"
             target="_blank"
             className="bg-purple-600 text-white hover:bg-purple-700 font-medium py-2 px-4 rounded mt-4 sm:mt-6 inline-block mx-auto sm:mx-0"
           >
             Download My Resume
-          </a>
+          </a> */}
         </div>
       </div>
 
