@@ -20,7 +20,7 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          UX Designer and Front-End Developer based in Toronto, specializing in Software Engineering and
+          <span className="font-semibold">UX Designer</span> and <span className="font-semibold">Front-End Developer</span> based in Toronto, specializing in Software Engineering and
           Digital Experience Design.
         </p>
       </div>
@@ -30,9 +30,9 @@ const About = () => {
         {/* Photo */}
         <div className="sm:flex-1 flex justify-center items-start">
           <img
-            src="/profile-pic.jpeg" // Replace with the correct path to your photo
+            src="/profile-pic.jpeg"
             alt="Seyeon"
-            className="rounded-full max-w-[300px] mx-auto" // mx-auto to center the image on mobile
+            className="rounded-full max-w-[300px] mx-auto" 
           />
         </div>
 

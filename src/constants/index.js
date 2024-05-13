@@ -139,7 +139,7 @@ export const skills = [
 
 export const experiences = [
   {
-    title: "Junior UX Designer",
+    title: "User Experience Designer",
     company_name: "Ministry of Transporation",
     icon: mto,
     iconBg: "#accbe1",
