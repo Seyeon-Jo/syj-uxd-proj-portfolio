@@ -52,7 +52,7 @@ const Home = () => {
             target="_blank"
             className="bg-purple-600 text-white hover:bg-purple-700 font-medium py-2 px-4 rounded mt-4 sm:mt-6 inline-block mx-auto sm:mx-0"
           >
-            Linkedin
+            Contact Me
           </a>
           {/* <a
             href="/resume.pdf"
