@@ -19,7 +19,7 @@ const Home = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-        <span className="font-semibold">UX Designer</span> and <span className="font-semibold">Front-End Developer</span> based in Toronto, specializing in Software Engineering and
+        <span className="font-semibold">UX Designer</span> and <span className="font-semibold">Software Developer</span> based in Toronto, specializing in Software Engineering and
           Digital Experience Design.
         </p>
       </div>
@@ -38,7 +38,7 @@ const Home = () => {
         {/* Introduction and Resume */}
         <div className="text-left sm:flex-1 sm:ml-5 mt-4 sm:mt-0">
           <p className="text-slate-500">
-            UX Designer and Front-End Developer from Toronto with a background in Software Engineering
+            UX Designer and Software Developer from Toronto with a background in Software Engineering
             and a passion for creating intuitive digital experiences.
           </p>
           <p className="mt-2 text-slate-500">

@@ -20,7 +20,7 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          <span className="font-semibold">UX Designer</span> and <span className="font-semibold">Front-End Developer</span> based in Toronto, specializing in Software Engineering and
+          <span className="font-semibold">UX Designer</span> and <span className="font-semibold">Software Developer</span> based in Toronto, specializing in Software Engineering and
           Digital Experience Design.
         </p>
       </div>
