@@ -1,7 +1,7 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 import { Footer, Navbar } from "./components";
-import { Contact, Home, About, Studies } from "./pages";
+import { Contact, Home, About } from "./pages";
 
 const App = () => {
   const navbarStyles = {
@@ -26,7 +26,7 @@ const App = () => {
               <>
                 <Routes>
                   <Route path="/about" element={<About />} />
-                  <Route path="/studies" element={<Studies />} />
+                  {/* <Route path="/studies" element={<Studies />} /> */}
                   <Route path="/contact" element={<Contact />} />
                 </Routes>
               </>

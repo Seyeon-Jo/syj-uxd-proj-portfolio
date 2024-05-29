@@ -92,14 +92,14 @@ const Navbar = () => {
         >
           About
         </NavLink>
-        <NavLink
+        {/* <NavLink
           to="/studies"
           className={({ isActive }) =>
             isActive ? "text-purple-600" : "text-black"
           }
         >
           Learning
-        </NavLink>
+        </NavLink> */}
         <NavLink
           to="/contact"
           className={({ isActive }) =>
