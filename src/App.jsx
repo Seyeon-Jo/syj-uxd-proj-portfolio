@@ -1,4 +1,4 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes, Navigate } from "react-router-dom";
 
 import { Footer, Navbar } from "./components";
 import { Contact, Home, About } from "./pages";
@@ -28,6 +28,10 @@ const App = () => {
                   <Route path="/about" element={<About />} />
                   {/* <Route path="/studies" element={<Studies />} /> */}
                   <Route path="/contact" element={<Contact />} />
+                  <Route
+                    path="/https://seyeonjo.notion.site/Food-Bank-App-for-the-Scarborough-Food-Network-Hackathon-3rd-Place-059e8c3f1e21464582cb5abcf069bea3"
+                    element={<Navigate to="https://seyeonjo.notion.site/Food-Bank-App-for-the-Scarborough-Food-Network-Hackathon-3rd-Place-7d555abc539d4bfcaa7148deaf6b1b5f?pvs=4" />}
+                  />
                 </Routes>
               </>
             }
