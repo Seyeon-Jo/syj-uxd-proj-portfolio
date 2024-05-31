@@ -219,7 +219,7 @@ export const projects = [
     name: "SFN Foodbank App",
     description:
       "Hackathon Project - Created a mobile app to help people in Scarborough and the GTA who need food find local food banks easily.",
-    link: "https://seyeonjo.notion.site/Food-Bank-App-for-the-Scarborough-Food-Network-Hackathon-3rd-Place-7d555abc539d4bfcaa7148deaf6b1b5f?pvs=4",
+    link: "https://seyeonjo.notion.site/Food-Bank-App-for-the-Scarborough-Food-Network-Hackathon-3rd-Place-059e8c3f1e21464582cb5abcf069bea3?pvs=4",
   },
   {
     //iconUrl: ffs,
@@ -228,7 +228,7 @@ export const projects = [
     name: "FFS Procurement Process",
     description:
       "UX Design Internship Project - Redesigned the process easier and more efficient for Resource Managers at the Ministry of Transportation.",
-    link: "https://seyeonjo.notion.site/FFS-Fee-for-Service-Procurement-Process-dd53e203123d42ebb18439cbcd22f069?pvs=4",
+    link: "https://seyeonjo.notion.site/FFS-Fee-for-Service-Procurement-Process-4039a567b5924b95bae332968cb1fe19?pvs=4",
   },
   {
     //iconUrl: chatbot,
@@ -237,7 +237,7 @@ export const projects = [
     name: "AI Chatbot 'PingBot'",
     description:
       "Hackathon Project - Created 'PingBot,' an AI chatbot that helps find learning opportunities in the OPS and answers related questions.",
-    link: "https://seyeonjo.notion.site/AI-Chatbot-PingBot-for-the-OPS-Phenomenal-Hackathon-2nd-place-22f98a33d0ac43448ffbbf8945c17ffb?pvs=4",
+    link: "https://seyeonjo.notion.site/AI-Chatbot-PingBot-for-the-OPS-Phenomenal-Hackathon-2nd-place-ea947f2afce54324915476d112999c1a?pvs=4",
   },
   {
     //iconUrl: summiz,
@@ -246,7 +246,7 @@ export const projects = [
     name: "MDIS Portal",
     description:
       "UX Design Internship Project - Worked on the MDIS Portal project focusing on usability testing, user personas and sitemap for better UX.",
-    link: "https://seyeonjo.notion.site/MDIS-Portal-00a14d389d5d44738239cf7300b2091c?pvs=4",
+    link: "https://seyeonjo.notion.site/MDIS-Portal-2df6be3040214d219d3315b996098d49?pvs=4",
   },
   // {
   //   //iconUrl: scheduler,
